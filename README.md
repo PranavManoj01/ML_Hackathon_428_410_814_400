@@ -73,7 +73,8 @@ This project is contained within a single Jupyter/Colab notebook. The cells are 
 12. **Cell 12:** Run to generate the final Markdown-formatted analysis report.
 
 ## File Structure
-├── ML_HackMan.ipynb # The main Jupyter notebook with all code 
+├── ML_HackMan.ipynb # The main Jupyter notebook with all code
+
 └── Analysis_report.pdf
 
 ## Future Improvements
